@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://accessev1.github.io/disney-hub/sitemap.xml
